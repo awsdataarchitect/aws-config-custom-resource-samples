@@ -1,12 +1,15 @@
-# CloudFormation Template
+# AWS Config Custom Resource Samples Repository
 
-AWS CloudFormation Template for end-to-end solution to extract valuable insights in real-time from home security camera feeds
+How to Track and Secure Any Publicly Accessible Google Storage Bucket with AWS Config Custom Resource
 
-https://github.com/awsdataarchitect/real-time-cam-feed-extraction-lambda-rekognition-dynamodb/blob/main/realtime-extraction-analysis.yaml
+Blog: https://vivek-aws.medium.com/unveiling-the-hidden-risks-how-to-track-and-secure-any-publicly-accessible-google-storage-bucket-6e1dcf59e61c
 
-Read the accompanying Blog on the Integration of this template with IFTTT
+Custom Lambda Function to capture custom resource configuration data from Google Storage Bucket:
 
-https://vivek-aws.medium.com/real-time-image-extraction-and-processing-from-security-cameras-using-aws-rekognition-and-lambda-ee1769af453f
+Custom Lambda Function to evaluate when the configuration changes for Config Custom resource (Google Storage Bucket):
+
+
+
 
 
 
